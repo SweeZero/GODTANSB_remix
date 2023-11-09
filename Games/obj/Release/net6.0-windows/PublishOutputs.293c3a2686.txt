@@ -1,0 +1,5 @@
+D:\games\Games.exe
+D:\games\Games.dll
+D:\games\Games.deps.json
+D:\games\Games.runtimeconfig.json
+D:\games\Games.pdb

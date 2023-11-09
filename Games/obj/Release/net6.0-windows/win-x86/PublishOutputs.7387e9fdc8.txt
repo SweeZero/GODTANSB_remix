@@ -1,0 +1,7 @@
+F:\Games.pdb
+F:\D3DCompiler_47_cor3.dll
+F:\PenImc_cor3.dll
+F:\PresentationNative_cor3.dll
+F:\vcruntime140_cor3.dll
+F:\wpfgfx_cor3.dll
+F:\Games.exe

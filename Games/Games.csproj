@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>c49b060b-5e93-41be-897a-7d4e9af27f6a.ico</ApplicationIcon>
+    <Title>Games</Title>
+    <Company>Swee Studios</Company>
+    <Authors>Swee</Authors>
+    <Product>GODTANSB</Product>
+    <Description>A simple and easy game launcher for any drive.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="c49b060b-5e93-41be-897a-7d4e9af27f6a.ico" />
+  </ItemGroup>
+
+</Project>
