@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amica\\source\\repos\\Games\\Games\\Games.csproj": {}
+    "S:\\Github\\GODTANSB\\Games\\Games.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amica\\source\\repos\\Games\\Games\\Games.csproj": {
+    "S:\\Github\\GODTANSB\\Games\\Games.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amica\\source\\repos\\Games\\Games\\Games.csproj",
+        "projectUniqueName": "S:\\Github\\GODTANSB\\Games\\Games.csproj",
         "projectName": "Games",
-        "projectPath": "C:\\Users\\amica\\source\\repos\\Games\\Games\\Games.csproj",
+        "projectPath": "S:\\Github\\GODTANSB\\Games\\Games.csproj",
         "packagesPath": "C:\\Users\\amica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amica\\source\\repos\\Games\\Games\\obj\\",
+        "outputPath": "S:\\Github\\GODTANSB\\Games\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,8 +25,8 @@
           "net6.0-windows"
         ],
         "sources": {
+          "C:\\PROGRAM FILES\\DOTNET\\library-packs": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,7 +41,9 @@
           ]
         },
         "restoreAuditProperties": {
-          "enableAudit": "default"
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -66,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
         }
       }
     }
