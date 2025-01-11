@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A simple and easy game launcher for any drive.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a97c0f81e25b0869b8525af5c58e73d1b90284c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc7d09d4c33d52d39d522a95452e125de0347b33")]
 [assembly: System.Reflection.AssemblyProductAttribute("GODTANSB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Games")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

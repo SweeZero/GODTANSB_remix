@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "S:\\Github\\GODTANSB\\Games\\Games.csproj": {}
+    "C:\\Users\\School is poo\\Documents\\GitHub\\GODTANSB_remix\\Games\\Games.csproj": {}
   },
   "projects": {
-    "S:\\Github\\GODTANSB\\Games\\Games.csproj": {
+    "C:\\Users\\School is poo\\Documents\\GitHub\\GODTANSB_remix\\Games\\Games.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Github\\GODTANSB\\Games\\Games.csproj",
+        "projectUniqueName": "C:\\Users\\School is poo\\Documents\\GitHub\\GODTANSB_remix\\Games\\Games.csproj",
         "projectName": "Games",
-        "projectPath": "S:\\Github\\GODTANSB\\Games\\Games.csproj",
-        "packagesPath": "C:\\Users\\amica\\.nuget\\packages\\",
-        "outputPath": "S:\\Github\\GODTANSB\\Games\\obj\\",
+        "projectPath": "C:\\Users\\School is poo\\Documents\\GitHub\\GODTANSB_remix\\Games\\Games.csproj",
+        "packagesPath": "C:\\Users\\School is poo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\School is poo\\Documents\\GitHub\\GODTANSB_remix\\Games\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\amica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\School is poo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,7 +25,6 @@
           "net6.0-windows"
         ],
         "sources": {
-          "C:\\PROGRAM FILES\\DOTNET\\library-packs": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -44,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
