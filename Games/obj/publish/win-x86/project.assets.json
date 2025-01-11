@@ -86,23 +86,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\amica\\.nuget\\packages\\": {},
+    "C:\\Users\\School is poo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amica\\source\\repos\\Games\\Games\\Games.csproj",
+      "projectUniqueName": "C:\\Users\\School is poo\\Documents\\GitHub\\GODTANSB_remix\\Games\\Games.csproj",
       "projectName": "Games",
-      "projectPath": "C:\\Users\\amica\\source\\repos\\Games\\Games\\Games.csproj",
-      "packagesPath": "C:\\Users\\amica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amica\\source\\repos\\Games\\Games\\obj\\publish\\win-x86\\",
+      "projectPath": "C:\\Users\\School is poo\\Documents\\GitHub\\GODTANSB_remix\\Games\\Games.csproj",
+      "packagesPath": "C:\\Users\\School is poo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\School is poo\\Documents\\GitHub\\GODTANSB_remix\\Games\\obj\\publish\\win-x86\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\amica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\School is poo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -111,7 +111,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -126,8 +125,11 @@
         ]
       },
       "restoreAuditProperties": {
-        "enableAudit": "default"
-      }
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -160,15 +162,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
-            "version": "[6.0.19, 6.0.19]"
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+            "version": "[6.0.36, 6.0.36]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x86",
-            "version": "[6.0.19, 6.0.19]"
+            "version": "[6.0.36, 6.0.36]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
-            "version": "[6.0.19, 6.0.19]"
+            "version": "[6.0.36, 6.0.36]"
           }
         ],
         "frameworkReferences": {
@@ -179,7 +185,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

@@ -35,7 +35,6 @@
             pictureBox1 = new PictureBox();
             Menu = new MenuStrip();
             startGameToolStripMenuItem = new ToolStripMenuItem();
-            aboutToolStripMenuItem = new ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             Menu.SuspendLayout();
             SuspendLayout();
@@ -43,7 +42,9 @@
             // listView1
             // 
             listView1.AllowColumnReorder = true;
+            listView1.BackColor = Color.FromArgb(64, 64, 64);
             listView1.Dock = DockStyle.Fill;
+            listView1.ForeColor = Color.White;
             listView1.LargeImageList = iconslol;
             listView1.Location = new Point(0, 216);
             listView1.MultiSelect = false;
@@ -71,7 +72,7 @@
             // 
             // Menu
             // 
-            Menu.Items.AddRange(new ToolStripItem[] { startGameToolStripMenuItem, aboutToolStripMenuItem });
+            Menu.Items.AddRange(new ToolStripItem[] { startGameToolStripMenuItem });
             Menu.Location = new Point(0, 0);
             Menu.Name = "Menu";
             Menu.Size = new Size(404, 24);
@@ -86,22 +87,16 @@
             startGameToolStripMenuItem.Text = "Start game";
             startGameToolStripMenuItem.Click += startGameToolStripMenuItem_Click;
             // 
-            // aboutToolStripMenuItem
-            // 
-            aboutToolStripMenuItem.Alignment = ToolStripItemAlignment.Right;
-            aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            aboutToolStripMenuItem.Size = new Size(52, 20);
-            aboutToolStripMenuItem.Text = "About";
-            aboutToolStripMenuItem.Click += aboutToolStripMenuItem_Click;
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.Black;
             ClientSize = new Size(404, 521);
             Controls.Add(listView1);
             Controls.Add(pictureBox1);
             Controls.Add(Menu);
+            ForeColor = Color.White;
             FormBorderStyle = FormBorderStyle.FixedSingle;
             Icon = (Icon)resources.GetObject("$this.Icon");
             MainMenuStrip = Menu;
@@ -125,7 +120,6 @@
         private ImageList imageList1;
         private MenuStrip Menu;
         private ToolStripMenuItem startGameToolStripMenuItem;
-        private ToolStripMenuItem aboutToolStripMenuItem;
         private ImageList iconslol;
     }
 }

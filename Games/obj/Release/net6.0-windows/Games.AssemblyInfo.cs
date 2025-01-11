@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A simple and easy game launcher for any drive.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07fb49719cf49b4fda1cc1b15078f0bdd25c9b6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GODTANSB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Games")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

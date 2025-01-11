@@ -76,11 +76,6 @@ namespace Games
                 i++;
             }
         }
-        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Games On a Dvd That Are Not Supposed to Be (aka GODTANSB) is a project by Swee. this software is an easy to setup game launcher for CD/DVD, USB, folder, literally anything!");
-        }
-
         private void startGameToolStripMenuItem_Click(object sender, EventArgs e)
         {
             int disk = Int32.Parse(disks[Int32.Parse(listView1.SelectedItems[0].Tag.ToString())]);
@@ -99,11 +94,13 @@ namespace Games
                     MessageBox.Show("An error occurred when trying to start: " + ex.GetType().ToString(), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
-            else {
+            else
+            {
                 MessageBox.Show("Please insert disk " + disks[Int32.Parse(listView1.SelectedItems[0].Tag.ToString())] + " to " + Text + " and try again.", "Disk missing", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
         }
-        private int getdisknum() {
+        private int getdisknum()
+        {
             string readContents;
             try
             {
@@ -113,10 +110,10 @@ namespace Games
                 }
                 return Int32.Parse(readContents);
             }
-            catch {
+            catch
+            {
                 return 0;
             }
-            
         }
     }
 }

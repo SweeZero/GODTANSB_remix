@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "re6vjd5LysVm/mNF5gKKAxolDheqG3YDgMef/H7ef3Zq+efw6q4BLiA3aMyp3uwoU+8Bu8h8AkmLGNhqeG9v7Q==",
+  "dgSpecHash": "lqJI2mv/SPw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\amica\\source\\repos\\Games\\Games\\Games.csproj",
+  "projectFilePath": "C:\\Users\\School is poo\\Documents\\GitHub\\GODTANSB_remix\\Games\\Games.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\amica\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
-    "C:\\Users\\amica\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
-    "C:\\Users\\amica\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.19\\microsoft.netcore.app.runtime.win-x86.6.0.19.nupkg.sha512",
-    "C:\\Users\\amica\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.19\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.19.nupkg.sha512",
-    "C:\\Users\\amica\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.19\\microsoft.aspnetcore.app.runtime.win-x86.6.0.19.nupkg.sha512"
+    "C:\\Users\\School is poo\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\School is poo\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\School is poo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.36\\microsoft.netcore.app.runtime.win-x86.6.0.36.nupkg.sha512",
+    "C:\\Users\\School is poo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.36\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.36.nupkg.sha512",
+    "C:\\Users\\School is poo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.36\\microsoft.aspnetcore.app.runtime.win-x86.6.0.36.nupkg.sha512",
+    "C:\\Users\\School is poo\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.36\\microsoft.netcore.app.crossgen2.win-x64.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }
